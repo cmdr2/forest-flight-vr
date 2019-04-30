@@ -1,4 +1,4 @@
-# freebird-vr
+# Freebird
 A forest-themed VR demo, for GOmmunity's April 2019 developer challenge (https://discord.gg/jeJscNh). Currently built for: Oculus Go and GearVR.
 
 You can download [this APK](https://github.com/cmdr2/freebird-vr/raw/master/Freebird-Oculus.apk) and install with `adb install Freebird-Oculus.apk` to try it out!
@@ -29,14 +29,14 @@ For movement through the scene, I chose to let the user fly! :) This felt awesom
 
 # Implementation
 ## One
-First step was to sketch out a rough layout of the scene. This was done using Unity, and cubes were used to mark out the river and pond.
+The first step was to sketch out a rough layout of the scene. This was done using Unity, and cubes were used to mark out the river and pond.
 
 To get started, I used a lowpoly tree I'd made for a previous project, and placed it everywhere a future tree would be. At this point, it looked like this:
 
 ![Step1](https://github.com/cmdr2/freebird-vr/raw/master/site_files/1.jpg)
 
 ## Two
-The second step was to create a lowpoly terrain, and apply a basic texture. The ground+river was simply a single colored texture, and while the river looks a bit "dead" by not moving, it simplified things a lot. A 25x25 Plane mesh was created in Blender, and deformed by manually moving vertices using the "Proportional Editing" mode (shortcut 'O') in "random" mode.
+The next step was to create a lowpoly terrain, and apply a basic texture. The ground+river was simply a single colored texture, and while the river looks a bit "dead" by not moving, it simplified things a lot. A 25x25 Plane mesh was created in Blender, and deformed by manually moving vertices using the "Proportional Editing" mode (shortcut 'O') in "random" mode.
 
 The grass and river texture was manually airbrushed in Gimp to add darker patches where the river and grass met, to add yellow patches along the river bank, and to give the river a flowing look. This resulted in:
 
