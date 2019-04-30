@@ -45,7 +45,7 @@ The grass and river texture was manually airbrushed in Gimp to add darker patche
 ## Three
 The third step was to create different trees. To save time, I used the same "trunk" model in all the trees, and created a few different leaf sections in Blender. First I'd prototyped some tree designs using cubes in Unity. After 5 varities of trees models were created in Blender, they were randomly resized and rotated by hand in Unity.
 
-Then I used a mesh combine script to combine them into two separate meshes: one mesh for all leaves, and one mesh for all trunks. A green texture was applied to the combined leaves mesh, and a brown one for the trunks mesh. This resulted in (3 days till submission):
+Then I used a mesh combine script to combine them into two separate meshes: one mesh for all leaves, and one mesh for all trunks. A green texture was applied to the combined leaves mesh, and a brown one for the trunks mesh. This resulted in:
 
 ![Step3](https://github.com/cmdr2/freebird-vr/raw/master/site_files/3.jpg)
 
