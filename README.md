@@ -3,7 +3,7 @@ A forest-themed VR demo, for GOmmunity's April 2019 developer challenge (https:/
 
 You can download [this APK](https://github.com/cmdr2/freebird-vr/raw/master/Freebird-Oculus.apk) and install with `adb install Freebird-Oculus.apk` to try it out!
 
-![Cover](https://github.com/cmdr2/freebird-vr/raw/master/site_files/cover1.jpg)
+![Cover](https://github.com/cmdr2/freebird-vr/raw/master/site_files/cover2.gif)
 
 The focus of the demo is to have a visually appealing environment, with a sufficient number of trees to require some form of rendering optimization. For me, a bonus would be a pleasing experience in being able to fly through the environment. A strong sense of "presence" was a given.
 
