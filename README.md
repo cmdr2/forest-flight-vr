@@ -31,14 +31,14 @@ For movement through the scene, I chose to let the user fly! :) This felt awesom
 ## One
 First step was to sketch out a rough layout of the scene. This was done using Unity, and cubes were used to mark out the river and pond.
 
-To get started, I used a lowpoly tree I'd made for a previous project, and placed it everywhere a future tree would be. At this point, it looked like this (4 days till submission):
+To get started, I used a lowpoly tree I'd made for a previous project, and placed it everywhere a future tree would be. At this point, it looked like this:
 
 ![Step1](https://github.com/cmdr2/freebird-vr/raw/master/site_files/1.jpg)
 
 ## Two
 The second step was to create a lowpoly terrain, and apply a basic texture. The ground+river was simply a single colored texture, and while the river looks a bit "dead" by not moving, it simplified things a lot. A 25x25 Plane mesh was created in Blender, and deformed by manually moving vertices using the "Proportional Editing" mode (shortcut 'O') in "random" mode.
 
-The grass and river texture was manually airbrushed in Gimp to add darker patches where the river and grass met, to add yellow patches along the river bank, and to give the river a flowing look. This resulted in (4 days till submission):
+The grass and river texture was manually airbrushed in Gimp to add darker patches where the river and grass met, to add yellow patches along the river bank, and to give the river a flowing look. This resulted in:
 
 ![Step2](https://github.com/cmdr2/freebird-vr/raw/master/site_files/2.jpg)
 
@@ -52,7 +52,7 @@ Then I used a mesh combine script to combine them into two separate meshes: one 
 ## Four
 The fourth step was to bake all this in Blender. For that, I exported the leaves and trunks meshes using an OBJ exporter script, imported to Blender, and baked everything using Blender's Cycles renderer. A couple of gotchas: the imported model required me to use "Remove Duplicates" and recalculate normals again. The baking settings are in the blender file, with some configurations for PBR.
 
-I quickly tested the game on a Cardboard, to ensure it ran smoothly even there. This resulted in (2 days till submission):
+I quickly tested the game on a Cardboard, to ensure it ran smoothly even there. This resulted in:
 
 ![Step4](https://github.com/cmdr2/freebird-vr/raw/master/site_files/4.jpg)
 
