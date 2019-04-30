@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 7fc864e5e768040c990820c2be01d916
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Leaves1
+    100002: Leaves1_Keen
+    100004: Leaves2
+    100006: Leaves2_Keen
+    100008: Leaves3
+    100010: Leaves3_Keen
+    100012: Leaves4
+    100014: Leaves4_Keen
+    100016: LeavesLOD1
+    100018: LeavesLOD1_Keen
+    100020: //RootNode
+    100022: Trunk
+    100024: Trunk_LOD1
+    100026: Trunk_LOD_sidewall
+    400000: Leaves1
+    400002: Leaves1_Keen
+    400004: Leaves2
+    400006: Leaves2_Keen
+    400008: Leaves3
+    400010: Leaves3_Keen
+    400012: Leaves4
+    400014: Leaves4_Keen
+    400016: LeavesLOD1
+    400018: LeavesLOD1_Keen
+    400020: //RootNode
+    400022: Trunk
+    400024: Trunk_LOD1
+    400026: Trunk_LOD_sidewall
+    2100000: Material
+    2300000: Leaves1
+    2300002: Leaves1_Keen
+    2300004: Leaves2
+    2300006: Leaves2_Keen
+    2300008: Leaves3
+    2300010: Leaves3_Keen
+    2300012: Leaves4
+    2300014: Leaves4_Keen
+    2300016: LeavesLOD1
+    2300018: LeavesLOD1_Keen
+    2300020: Trunk
+    2300022: Trunk_LOD1
+    2300024: Trunk_LOD_sidewall
+    3300000: Leaves1
+    3300002: Leaves1_Keen
+    3300004: Leaves2
+    3300006: Leaves2_Keen
+    3300008: Leaves3
+    3300010: Leaves3_Keen
+    3300012: Leaves4
+    3300014: Leaves4_Keen
+    3300016: LeavesLOD1
+    3300018: LeavesLOD1_Keen
+    3300020: Trunk
+    3300022: Trunk_LOD1
+    3300024: Trunk_LOD_sidewall
+    4300000: LeavesLOD1_Keen
+    4300002: Leaves4_Keen
+    4300004: Leaves3_Keen
+    4300006: Leaves2_Keen
+    4300008: Leaves1_Keen
+    4300010: LeavesLOD1
+    4300012: Trunk_LOD_sidewall
+    4300014: Trunk_LOD1
+    4300016: Leaves2
+    4300018: Leaves4
+    4300020: Leaves3
+    4300022: Trunk
+    4300024: Leaves1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

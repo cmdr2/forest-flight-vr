@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C6533C03-40B0-B69D-5E99-481CACDADEF2}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/game/Scripts/ui/OculusPointer.cs">
+    <Files>
+      <File FileName="Assets/game/Scripts/ui/OculusPointer.cs" Line="15" Column="34" />
+      <File FileName="Assets/game/Scripts/ui/Pointer.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
