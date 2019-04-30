@@ -21,7 +21,7 @@ The plan was to stay under 25 drawcalls, 25K triangles and 25K vertices. This ar
 
 Given that polygon budget, and the requirement to have lots of trees, I decided to be lazy and use a low-poly style that's very common (for good reason) in VR. There's no rule against careful use of Transparency shaders, but I chose not to have any transparent stuff (e.g. for leaves) in order to maximize the number of trees I could place within the rendering budget.
 
-The main "rendering optimization" in this demo is to use texture baking, and to use Mobile/Unlit shader to draw everything. So basically nothing gets lit by Unity, not even the paper aeroplane. This too is the most common form of optimization, nothing special :)
+The main "rendering optimization" in this demo is to use texture baking, and to use Mobile/Unlit shader to draw everything. So basically nothing gets lit by Unity, not even the paper aeroplane. Like the lowpoly style choice, this too is a lazy optimization that works quite alright :)
 
 A style of blending a texture with a low-poly terrain was used, inspired from Google Daydream Home.
 
