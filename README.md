@@ -1,5 +1,5 @@
 # Freebird
-A forest-themed VR demo, for GOmmunity's April 2019 developer challenge (https://discord.gg/jeJscNh). Currently built for: Oculus Go and GearVR.
+A forest-themed VR demo, for GOmmunity's April 2019 developer challenge (https://discord.gg/jeJscNh). Currently built for: Oculus Go, GearVR and Daydream.
 
 You can download [this APK](https://github.com/cmdr2/freebird-vr/raw/master/Freebird-Oculus.apk) and install with `adb install Freebird-Oculus.apk` to try it out!
 
